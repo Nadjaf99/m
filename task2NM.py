@@ -152,28 +152,18 @@
 
 
 
-# if secim == '1':
-#     yeni_ad = input("Yeni adi daxil edin: ")
-#     if yeni_ad.strip(): 
-#         if yeni_ad in a['ad']:
-#             print("Bu ad bazada artıq mövcuddur.")
-#         else:
-#             a['ad'].append(yeni_ad)
-#             print("yeni_ad bazaya əlavə edildi.")
-#     else:
-#         print("Error Mesajı: Ad daxil etmediniz.")
-# elif secim == '2':
-#     silinecek_ad = input("Silinecek adi daxil edin: ")
-#     if silinecek_ad.strip():
-#         if silinecek_ad in a['ad']:
-#             a['ad'].remove(silinecek_ad)
-#             print(f"{silinecek_ad} bazadan silindi.")
-#         else:
-#             print("Error Mesajı: Bu ad bazada yoxdur.")
-#     else:
-#         print("Error Mesajı: Ad daxil etmediniz.")
+# choice = input("Seçim edin: ")
+# if choice == '1' and '1' in a:
+#     new_name = input("Əlavə etmək istədiyiniz adı daxil edin: ")
+#     add_name(new_name)
+# elif choice == '2' and '2' in a:
+#     delete_name = input("Silinəcək adı daxil edin: ")
+#     delete_name(delete_name)
+# elif choice not in ('1', '2'):
+#     print("Elan daxil etmədiniz.")
 # else:
-#     print("Yanlış secim! Zəhmət olmasa 1 və ya 2 daxil edin.")
+#     print("Bu reklam bazası yoxdur.")
+
 
 
 
