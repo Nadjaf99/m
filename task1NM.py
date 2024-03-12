@@ -68,7 +68,7 @@
 
 #     print("Tələbə adı:", tələbə_adı)
 #     print("Yaş:", tələbə_yaşı)
-#     print("-")  
+#     print("-" * 22)  
 
 # print("Proqram bitdi.")
 
@@ -80,7 +80,7 @@
 
 # print("Student Name:", student_name)
 # print("Age:", student_age)
-# print("-")
+# print("-" * 20)
 
 # print("Program ended.")
 
@@ -96,7 +96,7 @@
     
 #     print("Məhsul adı:", mehsul_adi)
 #     print("Qiymət:", mehsul_qiymeti)
-#     print("-")  
+#     print("-" * 22)  
 
 # print("Proqram bitdi.")
 
@@ -109,7 +109,7 @@
     
 # print("Product name:", product_name)
 # print("Price:", product_price)
-# print("-")
+# print("-" * 25)
 
 # print("Program ended.")
 
@@ -126,7 +126,7 @@
 #     print("Tərtibatçının adı:", ad)
 #     print("Yaşı:", yaş)
 #     print("İstifadə etdiyi proqram dili:", proqram_dili)
-#     print("-")  
+#     print("-" * 25)  
 
 # print("Proqram bitdi.")
 
@@ -140,7 +140,7 @@ for x in range(4):
      print("Developer Name:", name)
      print("Age:", age)
      print("Application language used:", application_language)
-     print("-")
+     print("-" * 28)
 
 print("Program ended.")
 
@@ -180,7 +180,7 @@ print("Program ended.")
    
 #     print("Film adı:", film_adı)
 #     print("İstehsal tarixi:", istehsal_tarixi)
-#     print("-")  
+#     print("-" * 19)  
 
 # print("Proqram bitdi.")
 
@@ -192,7 +192,7 @@ print("Program ended.")
    
 # print("Movie Name:", movie_name)
 # print("Production date:", production_date)
-# print("-")
+# print("-" * 20)
 
 # print("Program ended.")
 
@@ -210,7 +210,7 @@ print("Program ended.")
     
 #     print("Evin kvadrat sahəsi:", kvadrat_sahəsi, "metr kvadrat")
 #     print("Qiymət:", evin_qiyməti, "AZN")
-#     print("-")  
+#     print("-" * 20)  
 
 # print("Proqram bitdi.")
 
@@ -223,7 +223,7 @@ print("Program ended.")
     
 # print("Square area of the house:", square_area, "square meters")
 # print("Price:", house_price, "AZN")
-# print("-")
+# print("-" * 20)
 
 # print("Program ended.")
 
@@ -237,7 +237,7 @@ print("Program ended.")
 
 #     print("Məhsul adı:", məhsul_adı)
 #     print("Qiymət:", məhsul_qiyməti)
-#     print("-")  
+#     print("-" * 20)  
 
 # print("Proqram bitdi.")
 
@@ -265,7 +265,7 @@ print("Program ended.")
     
 #     print("Tərəvəz adı:", tərəvəz_adı)
 #     print("Qiymət:", tərəvəz_qiyməti)
-#     print("-")  
+#     print("-" * 25)  
 
 # print("Proqram bitdi.")
 
@@ -278,7 +278,7 @@ print("Program ended.")
     
 # print("Vegetable name:", vegetable_name)
 # print("Price:", vegetable_price)
-# print("-")
+# print("-" * 20)
 
 # print("Program ended.")
 
@@ -293,7 +293,7 @@ print("Program ended.")
    
 #     print("Telefonun adı:", telefon_adı)
 #     print("Qiymət:", telefon_qiyməti)
-#     print("-")  
+#     print("-" * 22)  
 
 # print("Proqram bitdi.")
 
@@ -307,7 +307,7 @@ print("Program ended.")
    
 # print("Phone name:", phone_name)
 # print("Price:", phone_price)
-# print("-")
+# print("-" * 25)
 
 # print("Program ended.")
 
