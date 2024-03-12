@@ -54,12 +54,7 @@
 
 
 
-# for i in range(5):
-#     name = input("Enter your name: ")
-#     ages = int(input("Enter your age: "))
-    
 
-# print("Names: " , name "Ages: " , ages )
 
 
 
@@ -73,10 +68,21 @@
 
 #     print("Tələbə adı:", tələbə_adı)
 #     print("Yaş:", tələbə_yaşı)
-#     print("-" * 20)  
+#     print("-")  
 
 # print("Proqram bitdi.")
 
+
+# for x in range(8):
+# student_name = input("Enter student name: ")
+# student_age = input("Enter the student's age: ")
+    
+
+# print("Student Name:", student_name)
+# print("Age:", student_age)
+# print("-")
+
+# print("Program ended.")
 
 
 
@@ -90,10 +96,22 @@
     
 #     print("Məhsul adı:", mehsul_adi)
 #     print("Qiymət:", mehsul_qiymeti)
-#     print("-" * 20)  
+#     print("-")  
 
 # print("Proqram bitdi.")
 
+***
+
+# for x in range(4):
+# product_name = input("Enter the name of the food product: ")
+# product_price = input("Enter the price of the food product: ")
+    
+    
+# print("Product name:", product_name)
+# print("Price:", product_price)
+# print("-")
+
+# print("Program ended.")
 
 #  6 - Texnologiya:
 # Proqram tərtibatçılarının adı, yaşı və istifadə etdiyi proqram dili üçün istifadəçidən məlumat alan, sonra detalları formatlaşdırılmış şəkildə çap edən Python proqramı yazın. Proqram 4 dəfə məlumat almalıdır.
@@ -108,12 +126,23 @@
 #     print("Tərtibatçının adı:", ad)
 #     print("Yaşı:", yaş)
 #     print("İstifadə etdiyi proqram dili:", proqram_dili)
-#     print("-" * 20)  
+#     print("-")  
 
 # print("Proqram bitdi.")
 
 
+for x in range(4):
+     name = input("Enter developer name: ")
+     age = input("Enter developer's age: ")
+     program_language = input("Enter the program language used: ")
+    
+   
+     print("Developer Name:", name)
+     print("Age:", age)
+     print("Application language used:", application_language)
+     print("-")
 
+print("Program ended.")
 
 
 # 7 - Nəqliyyat:
@@ -132,6 +161,15 @@
 
 
 
+
+# distance = float(input("Enter the distance traveled in kilometers: "))
+# time = float(input("Enter the received time in hours: "))
+
+# average_image = distance / time
+
+
+# print("Average speed:", average_image, "km/h")
+
 # 8 - Əyləncə:
 # Filmlərin adı və istehsal tarixi üçün istifadəçidən məlumat alan, sonra detalları formatlaşdırılmış şəkildə çap edən Python proqramı yazın. Proqram 4 dəfə məlumat almalıdır.
 
@@ -142,12 +180,21 @@
    
 #     print("Film adı:", film_adı)
 #     print("İstehsal tarixi:", istehsal_tarixi)
-#     print("-" * 20)  
+#     print("-")  
 
 # print("Proqram bitdi.")
 
 
+# for _ in range(4):
+# movie_name = input("Enter movie name: ")
+# production_date = input("Enter the production date of the movie: ")
+    
+   
+# print("Movie Name:", movie_name)
+# print("Production date:", production_date)
+# print("-")
 
+# print("Program ended.")
 
 
 
@@ -163,13 +210,22 @@
     
 #     print("Evin kvadrat sahəsi:", kvadrat_sahəsi, "metr kvadrat")
 #     print("Qiymət:", evin_qiyməti, "AZN")
-#     print("-" * 20)  
+#     print("-")  
 
 # print("Proqram bitdi.")
 
 
 
+# for a in range(4):
+# square_area = float(input("Enter the square area of the house (square meters): "))
+# house_price = float(input("Enter the house price (AZN): "))
+    
+    
+# print("Square area of the house:", square_area, "square meters")
+# print("Price:", house_price, "AZN")
+# print("-")
 
+# print("Program ended.")
 
 # 10 - Elektron ticarət:
 # Məhsulun adı və qiyməti üçün istifadəçidən məlumat alan, sonra detalları formatlaşdırılmış şəkildə çap edən Python proqramı yazın. Proqram 7 dəfə məlumat almalıdır.
@@ -181,14 +237,23 @@
 
 #     print("Məhsul adı:", məhsul_adı)
 #     print("Qiymət:", məhsul_qiyməti)
-#     print("-" * 20)  
+#     print("-")  
 
 # print("Proqram bitdi.")
 
 
 
 
+# for z in range(7):
+# product_name = input("Enter the product name: ")
+# product_price = input("Enter the product price: ")
+    
 
+# print("Product name:", product_name)
+# print("Price:", product_price)
+# print("-" * 20)
+
+# print("Program ended.")
 
 # 11 - Kənd Təsərrüfatı:
 # Tərəvəzin adı və qiyməti üçün istifadəçidən məlumat alan, sonra detalları formatlaşdırılmış şəkildə çap edən Python proqramı yazın. Proqram 2 dəfə məlumat almalıdır.
@@ -200,11 +265,22 @@
     
 #     print("Tərəvəz adı:", tərəvəz_adı)
 #     print("Qiymət:", tərəvəz_qiyməti)
-#     print("-" * 20)  
+#     print("-")  
 
 # print("Proqram bitdi.")
 
 
+
+# for _ in range(2):
+# vegetable_name = input("Enter the name of the vegetable: ")
+# vegetable_price = input("Enter the price of the vegetable: ")
+    
+    
+# print("Vegetable name:", vegetable_name)
+# print("Price:", vegetable_price)
+# print("-")
+
+# print("Program ended.")
 
 
 # 12 - Telekommunikasiya:
@@ -217,14 +293,23 @@
    
 #     print("Telefonun adı:", telefon_adı)
 #     print("Qiymət:", telefon_qiyməti)
-#     print("-" * 20)  
+#     print("-")  
 
 # print("Proqram bitdi.")
 
 
 
 
+# for _ in range(6):
+# phone_name = input("Enter phone name: ")
+# phone_price = input("Enter the price of the phone: ")
+    
+   
+# print("Phone name:", phone_name)
+# print("Price:", phone_price)
+# print("-")
 
+# print("Program ended.")
 
 
 
@@ -242,7 +327,13 @@
 
 
 
+# flight_ticket_value = float(input("Enter the flight ticket value: "))
+# hotel_value = float(input("Enter the hotel value: "))
+# car_rental_cost = float(input("Enter car rental cost: "))
 
+# total_cost = airfare_cost + hotel_cost + rental_car_cost
+
+# print("Total cost of trip:", total_cost)
 
 
 # 14 - Tikinti sənayesi:
@@ -267,7 +358,21 @@
 
 
 
+# amount of wood = float(input("Enter the amount of wood for 1 house (cubic meters): "))
+# wood_price = float(input("Enter the price of 1 cubic meter of wood (AZN): "))
 
+# cement_quantity = float(input("Enter cement quantity for 1 house (tons): "))
+# cement_price = float(input("Enter the price of 1 ton of cement (AZN): "))
+
+# sand_amount = float(input("Enter the amount of sand for 1 house (cubic meters): "))
+# sand_price = float(input("Enter the price of 1 cubic meter of sand (AZN): "))
+
+# iron_amount = float(input("Enter the amount of iron for 1 house (kilograms): "))
+# iron_price = float(input("Enter the price of 1 kilogram of iron (AZN): "))
+
+# total_cost = (timber_quantity * timber_cost) + (cement_quantity * cement_cost) + (sand_quantity * sand_cost) + (iron_quantity * iron_cost)
+
+# print("Total cost of materials for construction project:", total_value, "AZN")
 
 
 
