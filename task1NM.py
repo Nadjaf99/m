@@ -139,7 +139,7 @@
 # for _ in range(4):
 #    movie_name = input("Enter movie name: ")
 #    production_date = input("Enter the production date of the movie: ")
-#    movie.append({"movie_names": movie_name, "production_dates":production_date})  
+#    movie.append({"movie_name": movie_name, "production_date":production_date})  
 #    print("-" * 39)
 # print(movie)
 # print("Program ended.")
@@ -156,7 +156,7 @@
 # for a in range(4):
 #    square_area = float(input("Enter the square area of the house (square meters): "))
 #    house_price = float(input("Enter the house price (AZN): "))
-#    house.append({"square_areas": square_area, "house_prices":house_price}) 
+#    house.append({"square_area": square_area, "house_price":house_price}) 
 #    print("-" * 55)
 
 # print(house)
@@ -172,7 +172,7 @@
 # for z in range(7):
 #     product_name = input("Enter the product name: ")
 #     product_price = input("Enter the product price: ")
-#     store.append({"product_names": product_name, "product_prices":product_price})
+#     store.append({"product_name": product_name, "product_price":product_price})
 #     print("-" * 28)
     
 
@@ -190,7 +190,7 @@
 # for _ in range(2):
 #    vegetable_name = input("Enter the name of the vegetable: ")
 #    vegetable_price = input("Enter the price of the vegetable: ")
-#    vegetables.append({"vegetable_names": vegetable_name, "v_prices":vegetable_price})
+#    vegetables.append({"vegetable_name": vegetable_name, "v_price":vegetable_price})
     
 #    print("-" * 36)
 # print(vegetables)
